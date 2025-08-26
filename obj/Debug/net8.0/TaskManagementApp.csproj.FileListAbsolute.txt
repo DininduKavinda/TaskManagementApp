@@ -134,3 +134,4 @@ C:\Users\Staff\Downloads\Badge\dotNet\TaskManagementApp\obj\Debug\net8.0\refint\
 C:\Users\Staff\Downloads\Badge\dotNet\TaskManagementApp\obj\Debug\net8.0\TaskManagementApp.pdb
 C:\Users\Staff\Downloads\Badge\dotNet\TaskManagementApp\obj\Debug\net8.0\TaskManagementApp.genruntimeconfig.cache
 C:\Users\Staff\Downloads\Badge\dotNet\TaskManagementApp\obj\Debug\net8.0\ref\TaskManagementApp.dll
+C:\Users\Staff\Downloads\Badge\dotNet\TaskManagementApp\obj\Debug\net8.0\TaskManagementApp.sourcelink.json
